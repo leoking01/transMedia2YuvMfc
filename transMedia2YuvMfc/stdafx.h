@@ -35,9 +35,51 @@
 
 
 
+#include <windows.h>
+#include <GdiPlus.h>
 
 
 
+
+#include<stdio.h> 
+#include<conio.h>
+
+#include <iostream>
+#include <cmath>
+//using namespace std;
+
+#include <Eigen/Core>
+// Eigen 几何模块
+#include <Eigen/Geometry>
+#include <Eigen/Dense>
+
+
+
+#include<stdio.h> 
+#include<conio.h>
+
+#include <iostream>
+#include <cmath>
+//using namespace std;
+
+#include <Eigen/Core>
+// Eigen 几何模块
+#include <Eigen/Geometry>
+
+
+#include<iostream>
+#include<fstream>
+
+#include <iostream>
+#include <opencv2/opencv.hpp>
+
+
+
+#include <cstdio>  
+#include <vector>  
+#include <opencv2/core/core.hpp>  
+
+#include "LKOpticalFlowApplication.h"
 
 
 

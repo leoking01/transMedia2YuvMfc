@@ -34,4 +34,12 @@ protected:
 public:
 	afx_msg void OnBnClickedButton1_trans2YUV();
 	afx_msg void OnBnClickedButton2_test_binary_io_align_problm();
+	afx_msg void OnBnClickedButton3_study_fundamentalMatrix();
+	afx_msg void OnBnClickedButton4_optimization();
+	afx_msg void OnBnClickedButton5_numerical_analysis();
+	afx_msg void OnBnClickedButton6_numerical_opt_gaus_nuton();
+	afx_msg void OnBnClickedButton7_mixmizeBinaryProduct();
+	afx_msg void OnBnClickedButton8_function_fit_02();
+	afx_msg void OnBnClickedButton9_optical_flow_method();
+	afx_msg void OnBnClickedButton10_ÊÓÆµ×ªµ½383x383x3();
 };
